@@ -14,8 +14,16 @@
 7. 해당 파일을 복호화 하고, 복호화 한 내용을 임시파일에 쓴다.
 8. 임시 파일객체를 내보낸다.
 
+
+파악되는 주요 행위 
+파일 생성
+디렉토리 생성
+파일 이동
+파일 암/복호화 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTM4ODMyNywtMTQwMzQwNjcyOCwtMT
-M4MDM5MzQ2OCw0MDgwODAxMzEsLTIwODg3NDY2MTIsOTQwOTg5
-MjQxXX0=
+eyJoaXN0b3J5IjpbLTk2NTg2NDA0NywxNzIxMzg4MzI3LC0xND
+AzNDA2NzI4LC0xMzgwMzkzNDY4LDQwODA4MDEzMSwtMjA4ODc0
+NjYxMiw5NDA5ODkyNDFdfQ==
 -->
