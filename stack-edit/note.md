@@ -21,13 +21,17 @@
 파일 이동
 파일 암/복호화 
 
+실수가 생길 수 있는 프로세스 
+파일/디렉토리 생성 
 
+이유
+파일대파이
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTg5MTYwMjMsMTcyMTM4ODMyNywtMT
-QwMzQwNjcyOCwtMTM4MDM5MzQ2OCw0MDgwODAxMzEsLTIwODg3
-NDY2MTIsOTQwOTg5MjQxXX0=
+eyJoaXN0b3J5IjpbLTEyNjM3MzU3NzgsLTE3OTg5MTYwMjMsMT
+cyMTM4ODMyNywtMTQwMzQwNjcyOCwtMTM4MDM5MzQ2OCw0MDgw
+ODAxMzEsLTIwODg3NDY2MTIsOTQwOTg5MjQxXX0=
 -->
