@@ -25,13 +25,17 @@
 파일/디렉토리 생성 
 
 이유
-파일대파이
+해당 기능에서 파일과 패스를 복합적으로 사용이 가능하기 때문
+디렉토리 정책에 임시저장과 저장에 차이가 있기 때문
+
+해당부분을 정책적으로 진행할 수 있는 클래스가 필요 
+해당 클래스에서 파일 및 패스에 대해 통일 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjM3MzU3NzgsLTE3OTg5MTYwMjMsMT
-cyMTM4ODMyNywtMTQwMzQwNjcyOCwtMTM4MDM5MzQ2OCw0MDgw
-ODAxMzEsLTIwODg3NDY2MTIsOTQwOTg5MjQxXX0=
+eyJoaXN0b3J5IjpbMzkwODE2MiwtMTc5ODkxNjAyMywxNzIxMz
+g4MzI3LC0xNDAzNDA2NzI4LC0xMzgwMzkzNDY4LDQwODA4MDEz
+MSwtMjA4ODc0NjYxMiw5NDA5ODkyNDFdfQ==
 -->
