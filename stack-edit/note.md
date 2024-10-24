@@ -29,13 +29,15 @@
 디렉토리 정책에 임시저장과 저장에 차이가 있기 때문
 
 해당부분을 정책적으로 진행할 수 있는 클래스가 필요 
-해당 클래스에서 파일 및 패스에 대해 통일 
+해당 클래스에서 파일 및 패스에 대해 통일 할 수 있는지 확인 필요 
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwODE2MiwtMTc5ODkxNjAyMywxNzIxMz
-g4MzI3LC0xNDAzNDA2NzI4LC0xMzgwMzkzNDY4LDQwODA4MDEz
-MSwtMjA4ODc0NjYxMiw5NDA5ODkyNDFdfQ==
+eyJoaXN0b3J5IjpbMjM4MjA5MTExLC0xNzk4OTE2MDIzLDE3Mj
+EzODgzMjcsLTE0MDM0MDY3MjgsLTEzODAzOTM0NjgsNDA4MDgw
+MTMxLC0yMDg4NzQ2NjEyLDk0MDk4OTI0MV19
 -->
