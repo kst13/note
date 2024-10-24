@@ -8,11 +8,14 @@
 3. back-end에서 파일을 저장할때 임시 폴더에 업로드 된 파일을 이동시킨다. 실제로 DB에도 업데이트를 할때 이 파일은 각 서비스 폴더 및 날짜 패턴에 맞춰진 폴더에 업로드 한다.
 
 화면에서 첨부된 파일을 불러올때 까지
-1. 백엔드에서 db에서 데이터를 로드하고 나서 파일id가 있다면 파일 서비스에 파일Id를 기반으로 파일을 조회하는 요청을 보낸다
-2. 
+4. 백엔드에서 db에서 데이터를 로드하고 나서 파일id가 있다면 파일 서비스에 파일Id를 기반으로 파일을 조회하는 요청을 보낸다
+5. 파일 저장소에서 해당 파일을 가져온다.
+6. 임시 파일을 생성한다.
+7. 해당 파일을 복호화 하고, 복호화 한 내용을 임시파일에 쓴다.
+8. 임시 파일객체를 내보낸다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDYwNTkzLC0xNDAzNDA2NzI4LC0xMz
-gwMzkzNDY4LDQwODA4MDEzMSwtMjA4ODc0NjYxMiw5NDA5ODky
-NDFdfQ==
+eyJoaXN0b3J5IjpbMTcyMTM4ODMyNywtMTQwMzQwNjcyOCwtMT
+M4MDM5MzQ2OCw0MDgwODAxMzEsLTIwODg3NDY2MTIsOTQwOTg5
+MjQxXX0=
 -->
